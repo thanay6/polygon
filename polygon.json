@@ -1,0 +1,224 @@
+{
+  "id": "polygon",
+  "description": "Polygon is a multi-chain scaling solution for Ethereum, offering faster and more cost-effective transactions. It enables developers to build decentralized applications with increased scalability and interoperability.",
+  "tags": [
+    "pos",
+    "smart contracts",
+    "polygon ecosystem",
+    "layer 1",
+    "evm"
+  ],
+  "coin_details": {
+      "name": "Polygon",
+      "symbol": "MATIC",
+      "logo": "logo/polygon.png",
+      "max_supply": "9,618,349,204 MATIC coins"
+  },
+  "chain_details": [
+      {
+          "name": "Language",
+          "type": "Matic Network"
+      },
+      {
+          "name": "Consensus",
+          "type": "Proof of stake"
+      },
+      {
+          "name": "Chain Layer",
+          "type": "Chain Layer"
+      },
+      {
+          "name": "Chain Type",
+          "type": "layer 2"
+      }
+  ],
+  "official_links": {
+      "website": "https://polygon.technology/",
+      "explorer": "https://polygonscan.com/",
+      "whitepaper": "https://polygon.technology/papers/pol-whitepaper",
+      "documentation": "https://docs.polygon.technology/",
+      "forum": "https://forum.polygon.technology/",
+      "github": "https://github.com/maticnetwork/contracts"
+  },
+  "social_platforms": {
+      "discord": "https://discord.com/invite/0xpolygon",
+      "twitter": "https://twitter.com/0xPolygon",
+      "reddit": "https://www.reddit.com/r/0xPolygon/",
+      "community": "https://t.me/polygonofficial",
+      "coinmarketcap_community": "https://coinmarketcap.com/currencies/polygon/"
+  },
+  "data_aggregator": [
+      {
+          "name": "CoinMarketCap",
+          "url": "https://coinmarketcap.com/currencies/polygon/"
+      },
+      {
+          "name": "CoinGecko",
+          "url": "https://www.coingecko.com/en/coins/polygon"
+      },
+      {
+          "name": "DefiLlama",
+          "url": "https://defillama.com/chain/Polygon"
+      },
+      {
+          "name": "DappRadar",
+          "url": "https://dappradar.com/rankings/protocol/polygon"
+      },
+      {
+          "name": "CryptoCompare",
+          "url": "https://www.cryptocompare.com/coins/matic/overview"
+      },
+      {
+          "name": "TradingView",
+          "url": "https://in.tradingview.com/symbols/MATICUSD/"
+      },
+      {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/price/polygon/"
+      },
+      {
+          "name": "Investing",
+          "url": "https://in.investing.com/crypto/polygon/matic-usd"
+      },
+      {
+          "name": "MarketWatch",
+          "url": "https://www.marketwatch.com/investing/cryptocurrency/maticusd"
+      },
+      {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/quote/MATIC-USD/history/"
+      }
+  ],
+  "explorers": [
+      {
+          "name": "PolygonScan",
+          "url": "https://polygonscan.com/"
+      },
+      {
+          "name": "Testnet",
+          "url": "https://mumbai.polygonscan.com/"
+      },
+      {
+          "name": "POS",
+          "url": "https://polygon.technology/polygon-pos"
+      },
+      {
+          "name": "PoA Bridge",
+          "url": "https://www.oklink.com/eth"
+      },
+      {
+          "name": " Bor Explorer",
+          "url": "https://docs.polygon.technology/pos/architecture/bor/"
+      }
+  ],
+  "bridges": [
+      {
+          "name": "Polygon Bridge",
+          "url": "https://wallet.polygon.technology/"
+      },
+      {
+          "name": "Hop Protocol",
+          "url": "https://hop.exchange/"
+      },
+      {
+          "name": "xDai Bridge",
+          "url": "https://bridge.connext.network/from-gnosis-to-polygon"
+      },
+      {
+          "name": "Connext",
+          "url": "https://www.connext.network/"
+      },
+      {
+          "name": "zkSync",
+          "url": "https://polygon.technology/polygon-zkevm"
+      }
+  ],
+  "bounty": [
+      {
+          "name": "Bug Bounty Program",
+          "url": "https://polygon.technology/blog/polygon-bug-bounty-program-is-live-on-immunefi"
+      }
+  ],
+  "grants": [
+      {
+          "name": "Polygon Foundation",
+          "url": "https://polygon.technology/village/grants"
+      }
+  ],
+  "faucets": [
+      {
+          "name": "Alchemy",
+          "url": "https://www.alchemy.com/polygon"
+      },
+      {
+          "name": "QuickNode",
+          "url": "https://www.quicknode.com/docs/polygon"
+      },
+      {
+          "name": "All That Node",
+          "url": "https://www.allthatnode.com/faucet/polygon.dsrv"
+      },
+      {
+          "name": "Holesky PoW Faucet",
+          "url": "https://holesky-faucet.pk910.de/"
+      }
+  ],
+  "rpcs": [
+      {
+          "name": "Chainlist",
+          "url": "https://chainlist.org/chain/137"
+      }
+  ],
+  "wallets": [
+      {
+          "name": "Token Traker",
+          "url": "https://polygonscan.com/tokens"
+      },
+      {
+          "name": "Metamask",
+          "url": "https://polygon.technology/blog/getting-started-with-metamask-on-polygon"
+      },
+      {
+          "name": "Safe",
+          "url": "https://safe.global/"
+      },
+      {
+          "name": "Coinbase Wallet",
+          "url": "https://polygon.technology/blog/coinbase-makes-connecting-dapps-on-polygon-more-seamless"
+      },
+      {
+          "name": "OKX",
+          "url": "https://www.okx.com/price/polygon-matic"
+      },
+      {
+          "name": "Trezor",
+          "url": "https://trezor.io/"
+      },
+      {
+          "name": "Ledger",
+          "url": "https://www.ledger.com/coin/wallet/matic-network"
+      }
+  ],
+  "oracles": [
+      {
+          "name": "Chainlink",
+          "url": "https://polygonscan.com/token/0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39"
+      },
+      {
+          "name": "Band Protocol",
+          "url": "https://polygon.technology/blog/band-protocol-partners-with-polygon-to-bring-decentralized-oracles-to-polygons-ecosystem-of-defi-nft-gaming-dapps"
+      },
+      {
+          "name": "Tellor",
+          "url": "https://polygonscan.com/token/0xe3322702bedaaed36cddab233360b939775ae5f1"
+      },
+      {
+          "name": "API3",
+          "url": "https://polygon.technology/blog/api3-to-launch-a-zk-layer-2-chain-powered-by-polygon-cdk"
+      },
+      {
+          "name": "Razor Network",
+          "url": "https://polygonscan.com/address/0xc91c06db0f7bffba61e2a5645cc15686f0a8c828"
+      }
+  ]
+}
